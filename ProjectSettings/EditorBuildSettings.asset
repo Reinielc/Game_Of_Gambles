@@ -11,6 +11,24 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Bird Game/Assets/Bird Game.unity
     guid: a2cd7530836dc4bd5b940d826b207076
+  - enabled: 1
+    path: Assets/HorseGame/Scenes/HorseGame.unity
+    guid: a500f29b01f9f462c8f324e38cac499c
+  - enabled: 1
+    path: Assets/RojanAssets/Scenes/RojanGame.unity
+    guid: 53eac54131eb64769b72a163d0f9483f
+  - enabled: 1
+    path: Assets/CardGame/Assets/Scenes/CardGame.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/SlotMachineGame/Scenes/SlotMachineGame.unity
+    guid: 24395d8289cf5a0448f79ba4b966d6ac
+  - enabled: 1
+    path: Assets/SumCardGame/Scenes/SumCardScene.unity
+    guid: 70a8452175e3042bf8c8e77e8a68893c
+  - enabled: 1
+    path: Assets/DiceGame/Assets 1/Scenes/DiceGame.unity
+    guid: 28e6c01ab978d41e595c5e33a43a302a
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
   m_UseUCBPForAssetBundles: 0
